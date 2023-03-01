@@ -1,7 +1,0 @@
-#include <Windows.h>
-
-
-
-Void main() {
-  do_something();
-}
